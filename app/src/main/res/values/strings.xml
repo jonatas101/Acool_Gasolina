@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Álcool ou Gasolina</string>
+    <string name="TextoExplicativo">Saiba a melhor opção de abastecimento do seu carro</string>
+    <string name="descricaoImagem">Imagem de um carro com o texto alcool ou gasolina</string>
+    <string name="hintAlcool">Preço do Álcool</string>
+    <string name="hintGasolina">Preço da Gasolina</string>
+    <string name="btn_calcular">Calcular</string>
+</resources>
